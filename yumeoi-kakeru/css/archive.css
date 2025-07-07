@@ -42,7 +42,7 @@ h2 {
 
 #archive {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-evenly;
     flex-wrap: wrap;
     column-gap: 3vw;
     margin: 10px;
