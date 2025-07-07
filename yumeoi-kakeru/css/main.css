@@ -195,3 +195,9 @@ footer div {
         height: 50px;
     }
 }
+
+@media screen and (max-width:375px) {
+    footer {
+        height: 200px;
+    }
+}
